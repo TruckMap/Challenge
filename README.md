@@ -2,7 +2,7 @@
 
 This is a collection of challenge projects for TruckMap's open engineering team roles.
 
-Please refer to the corresponding github repo for a full description of the individual project - you will have been asked to complete one of them.  As the projects mention, we’ll pay **$200 for any submission** in good faith effort, regardless if you’re ultimately hired.
+Please refer to the corresponding github repo for a full description of the individual project - you will have been asked to complete one of them.  As the project descriptions mention, we’ll pay **$200 for any submission** in good faith effort, regardless if you’re ultimately hired.
 
 ## Mobile
 
