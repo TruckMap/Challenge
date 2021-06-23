@@ -14,4 +14,4 @@ Engineering challenge for open Next.JS and web engineering roles. [TruckMap/Chal
 
 ## CSS
 
-Engineering challenge for front-end roles.  It is likely that we'd like you to do the TypeScript project above - this is purely to demonstrate familiarity with implementing designs with Tailwind.css [TruckMap/ChallengeWeb ➤](https://github.com/TruckMap/ChallengeWeb)
+Engineering challenge for front-end roles.  It is likely that we'd like you to do the TypeScript project above - this is to demonstrate familiarity with implementing designs with Tailwind.css [TruckMap/ChallengeWeb ➤](https://github.com/TruckMap/ChallengeWeb)
