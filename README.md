@@ -6,12 +6,12 @@ Please refer to the corresponding github repo for a full description of the indi
 
 ## Mobile
 
-Enginering challenge for open react-native / mobile roles. [TruckMap/ChallengeMobile ➤](https://github.com/TruckMap/ChallengeMobile)
+Enginering challenge for open react-native / mobile roles. [TruckMap/challenge-mobile ➤](https://github.com/TruckMap/challenge-mobile)
 
 ## TypeScript / Next.JS / Web
 
-Engineering challenge for open Next.JS and web engineering roles. [TruckMap/ChallengeJS ➤](https://github.com/TruckMap/ChallengeJS)
+Engineering challenge for open Next.JS and web engineering roles. [TruckMap/challenge-web ➤](https://github.com/TruckMap/challenge-css)
 
 ## CSS
 
-Engineering challenge for front-end roles.  It is likely that we'd like you to do the TypeScript project above - this is to demonstrate familiarity with implementing designs with Tailwind.css [TruckMap/ChallengeWeb ➤](https://github.com/TruckMap/ChallengeWeb)
+Engineering challenge for front-end roles.  It is likely that we'd like you to do the TypeScript project above - this is to demonstrate familiarity with implementing designs with Tailwind.css [TruckMap/challenge-css ➤](https://github.com/TruckMap/challenge-css)
