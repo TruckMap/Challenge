@@ -10,7 +10,7 @@ Enginering challenge for open react-native / mobile roles. [TruckMap/challenge-m
 
 ## TypeScript / Next.JS / Web
 
-Engineering challenge for open Next.JS and web engineering roles. [TruckMap/challenge-web ➤](https://github.com/TruckMap/challenge-css)
+Engineering challenge for open Next.JS and web engineering roles. [TruckMap/challenge-web ➤](https://github.com/TruckMap/challenge-web)
 
 ## CSS
 
